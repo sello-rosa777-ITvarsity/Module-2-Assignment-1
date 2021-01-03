@@ -153,7 +153,7 @@ a.infor-box{
 
 img.info-box-weather-icon{
     height: 30px;
-    width: 30;
+    width: 30px!important;
     margin: 10px;
     float: left;
     
@@ -167,7 +167,7 @@ h1.info-box-weather-icon{
 }
 
 table{
-    width: 100%
+    width: 100%;
 }
 
 td{
